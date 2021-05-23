@@ -1,0 +1,40 @@
+Script started on 2021-04-07 18:24:29-07:00 [TERM="xterm-256color" TTY="/dev/pts/53" COLUMNS="145" LINES="40"]
+nkurtz@ada:~/cs201$ ./speed_game 
+
+This is a game that tests typing speed
+
+Type the following words:
+Word # 1 lazy: lazy
+Word # 2 fox: fox
+Word # 3 jumps: jumps
+Word # 4 brown: brown
+Word # 5 over: over
+Word # 6 dog: dog
+Word # 7 the: the
+Word # 8 The: The
+Word # 9 quick: quick
+You took 16 seconds and 782601 milliseconds 
+nkurtz@ada:~/cs201$ ./speed_game 
+
+This is a game that tests typing speed
+
+Type the following words:
+Word # 1 over: moey
+Word # 1 over: ove
+Word # 1 over: overout
+Word # 1 over: over
+Word # 2 quick: quick
+Word # 3 the: The
+Word # 3 the: the
+Word # 4 jumps: jumps high
+Word # 5 dog: dog eats
+Word # 6 lazy: lazy
+Word # 7 fox: fox
+Word # 8 The: the
+Word # 8 The: The
+Word # 9 brown: brown
+You took 81 seconds and 135106 milliseconds 
+nkurtz@ada:~/cs201$ exit
+exit
+
+Script done on 2021-04-07 18:26:28-07:00 [COMMAND_EXIT_CODE="0"]
